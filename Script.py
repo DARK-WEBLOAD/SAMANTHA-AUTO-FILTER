@@ -9,9 +9,9 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 -  𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - ᗪᗩᖇK ᗯEᗷᒪOᗩᗪ 🇮🇳
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - ᴅᴡʟ 
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Auto_Filter_bot"> 𝒂𝒖𝒕𝒐 𝒇𝒊𝒍𝒕𝒆𝒓</a>
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD"> ᗪᗩᖇK ᗯEᗷᒪOᗩᗪ 🇮🇳</a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD"> DWL</a> 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - ᴘʏᴛʜᴏɴ 3
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - ᴍᴏɴɢᴏ ᴅʙ
@@ -20,7 +20,7 @@ class script(object):
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href="https://t.me/cinemahubmoviesS"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔:
 <a href="https://t.me/joinchat/FYBCIcMfr0AyOTFl"> 𝑼𝑵𝑰𝑽𝑬𝑹𝑺𝑨𝑳 𝑴𝑶𝑽𝑰𝑬𝑺 </a>"""
