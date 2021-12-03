@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/SangeethTS/ORGINAL-REPO-IMDB",
-    "repository": "https://github.com/SangeethTS/ORGINAL-REPO-IMDB",
+    "website": "https://github.com/DARK-WEBLOAD/SAMANTHA-AUTO-FILTER",
+    "repository": "https://github.com/DARK-WEBLOAD/SAMANTHA-AUTO-FILTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
