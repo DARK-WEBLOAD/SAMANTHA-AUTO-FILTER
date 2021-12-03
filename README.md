@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/e7c5e5cba1db946d460bf.jpg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/e7c5e5cba1db946d460bf.jpg)](https://heroku.com/deploy?template=https://github.com/SangeethTS/ORGINAL-REPO-IMDB/samantha-repo)
 
 - [x] Auto Filter
 - [x] Manuel Filter
@@ -108,7 +108,7 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Lallu-lallus/ALPHA_IMDB_BOT)
+* Original [Repo](https://github.com/SangeethTS/ORGINAL-REPO-IMDB)
 
 
 ## Support
