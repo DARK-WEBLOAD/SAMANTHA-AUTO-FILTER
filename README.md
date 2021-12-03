@@ -108,7 +108,7 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/SangeethTS/ORGINAL-REPO-IMDB)
+* Original [Repo](https://github.com/DARK-WEBLOAD/SAMANTHA-AUTO-FILTER)
 
 
 ## Support
