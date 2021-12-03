@@ -490,11 +490,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
             InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
             ],[
-            InlineKeyboardButton('ᴄʜᴀɴɴᴀʟ', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
-            ],[
-            InlineKeyboardButton('ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅ', callback_data='help')
-            ],[
-            InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
