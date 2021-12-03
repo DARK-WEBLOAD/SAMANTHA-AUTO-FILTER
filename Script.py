@@ -1,7 +1,9 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
+    START_TXT = """𝒉𝒆𝒍𝒍𝒐 {},
+
 𝑰𝒂𝒎 𝑨 𝑺𝒊𝒎𝒑𝒍𝒆 𝑨𝒖𝒕𝒐 𝑭𝒊𝒍𝒕𝒆𝒓 + 𝑴𝒐𝒗𝒊𝒆 𝑺𝒆𝒂𝒓𝒄𝒉 + 𝑴𝒂𝒏𝒖𝒂𝒍 𝑭𝒊𝒍𝒕𝒆𝒓 𝑩𝒐𝒕. 𝑰 𝑪𝒂𝒏 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝒐𝒗𝒊𝒆𝒔 𝑰𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑𝒔. 𝑰 𝑪𝒂𝒏 𝑨𝒍𝒔𝒐 𝑨𝒅𝒅 𝑭𝒊𝒍𝒕𝒆𝒓𝒔 𝑰𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑𝒔.  𝑱𝒖𝒔𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝑨𝒏𝒅 𝑬𝒏𝒋𝒐𝒚 🥰
-𝙈𝙖𝙞𝙣𝙩𝙖𝙣𝙚𝙙 𝙗𝙮:<a href="https://t.me/DARKWEBLOAD"> ᗪᗩᖇK ᗯEᗷᒪOᗩᗪ 🇮🇳</a>
+
+𝙈𝙖𝙞𝙣𝙩𝙖𝙣𝙚𝙙 𝙗𝙮:<a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -11,8 +13,8 @@ class script(object):
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
 ║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Auto_Filter_bot"> 𝒂𝒖𝒕𝒐 𝒇𝒊𝒍𝒕𝒆𝒓</a>
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ Wᴇʙʟᴏᴀᴅ🇮🇳</a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD"> DWL</a> 
+║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
+║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD">DᴡL</a> 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
 ║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - ᴘʏᴛʜᴏɴ 3
 ║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - ᴍᴏɴɢᴏ ᴅʙ
