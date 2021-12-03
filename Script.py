@@ -12,7 +12,7 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Auto_Filter_bot"> 𝒂𝒖𝒕𝒐 𝒇𝒊𝒍𝒕𝒆𝒓</a>
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Auto_Filter_bot"> 𝒔𝒂𝒎𝒂𝒏𝒕𝒉𝒂</a>
 ║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
 ║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD">DᴡL</a> 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
