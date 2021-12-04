@@ -7,7 +7,7 @@ from plugins.helper_functions.extract_user import extract_user
 async def un_ban_user(_, message):
     is_admin = await admin_check(message)
     if not is_admin:
-        return🤖
+        return
 
     user_id, user_first_name = extract_user(message)
 
