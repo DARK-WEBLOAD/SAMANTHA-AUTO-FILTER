@@ -25,7 +25,7 @@ class script(object):
 - 𝑰 𝒂𝒎  𝒏𝒐𝒕 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 - <a href="https://t.me/cinemahubmoviesS"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
-𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔:
+𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀:
 <a href="https://t.me/joinchat/FYBCIcMfr0AyOTFl"> 𝑼𝑵𝑰𝑽𝑬𝑹𝑺𝑨𝑳 𝑴𝑶𝑽𝑰𝑬𝑺 </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
