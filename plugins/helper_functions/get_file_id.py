@@ -1,5 +1,5 @@
 from pyrogram.types import Message
-from pyrogram.types.messages_and_media import message
+from pyrogram.types.messages_and_media import messag
 
 
 def get_file_id(msg: Message):
