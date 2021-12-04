@@ -31,7 +31,7 @@ async def mute_user(_, message):
     else:
         if str(user_id).lower().startswith("@"):
             await message.reply_text(
-                "⭕️ "
+                "👍🏻 "
                 f"{user_first_name}"
                 " Lavender's mouth is shut! 🤐"
             )
