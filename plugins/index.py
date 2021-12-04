@@ -33,7 +33,7 @@ async def index_files(bot, query):
     await msg.edit(
         "Starting Indexing",
         reply_markup = InlineKeyboardMarkup(
-            [[InlineKeyboardButton('Cancel', callback_data='index_cancel')]]
+            [[InlineKeyboardButton('ᴄᴀɴᴄᴇʟ', callback_data='index_cancel')]]
         )
     )
     try:
@@ -58,10 +58,10 @@ async def send_for_index(bot, message):
     if message.from_user.id in ADMINS:
         buttons = [
             [
-                InlineKeyboardButton('Yes', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
+                InlineKeyboardButton('Yᴇs', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
             ],
             [
-                InlineKeyboardButton('close', callback_data='close_data'),
+                InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data'),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -76,10 +76,10 @@ async def send_for_index(bot, message):
         link = f"@{message.forward_from_chat.username}"
     buttons = [
         [
-            InlineKeyboardButton('Accept Index', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
+            InlineKeyboardButton('Aᴄᴄᴇᴘᴛ Iɴᴅᴇx', callback_data=f'index#accept#{chat_id}#{last_msg_id}#{message.from_user.id}')
         ],
         [
-            InlineKeyboardButton('Reject Index', callback_data=f'index#reject#{chat_id}#{message.message_id}#{message.from_user.id}'),
+            InlineKeyboardButton('Rᴇᴊᴇᴄᴛ Iɴᴅᴇx', callback_data=f'index#reject#{chat_id}#{message.message_id}#{message.from_user.id}'),
         ]
         ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -141,7 +141,7 @@ async def index_files_to_db(lst_msg_id, chat, msg, bot):
                     print(e)
                 current+=1
                 if current % 20 == 0:
-                    can = [[InlineKeyboardButton('Cancel', callback_data='index_cancel')]]
+                    can = [[InlineKeyboardButton('Cᴀɴᴄᴇʟ', callback_data='index_cancel')]]
                     reply = InlineKeyboardMarkup(can)
                     await msg.edit_text(
                         text=f"Total messages fetched: <code>{current}</code>\nTotal messages saved: <code>{total_files}</code>",
