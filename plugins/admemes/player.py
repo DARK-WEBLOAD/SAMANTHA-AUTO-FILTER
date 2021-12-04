@@ -96,7 +96,7 @@ async def show_current_playing_time(_, m: Message):
                 [
 			InlineKeyboardButton("🔄", callback_data="replay"),
 			InlineKeyboardButton("⏸", callback_data="pause"),
-			InlineKeyboardButton("⏭", callback_data="skip")
+			InlineKeyboardButton("⏭️", callback_data="skip")
                 
                 ],
 
