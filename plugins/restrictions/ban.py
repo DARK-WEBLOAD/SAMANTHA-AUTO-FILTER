@@ -6,7 +6,7 @@ from plugins.helper_functions.string_handling import extract_time
 
 @Client.on_message(filters.command("ban"))
 async def ban_user(_, message):
-    is_admin = await admin_check(message)
+    is_admin = await admin_check(message)🤖
     if not is_admin:
         return
 
