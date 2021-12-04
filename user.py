@@ -1,4 +1,4 @@
-from config import Config7
+from config import Config
 from pyrogram import Client
 
 USER = Client(
