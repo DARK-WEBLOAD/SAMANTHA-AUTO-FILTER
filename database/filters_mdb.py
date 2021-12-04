@@ -2,7 +2,7 @@ import pymongo
 from info import DATABASE_URI, DATABASE_NAME
  
 myclient = pymongo.MongoClient(DATABASE_URI)
-mydb = myclient[DATABASE_NAME]7
+mydb = myclient[DATABASE_NAME]
 
 
 
