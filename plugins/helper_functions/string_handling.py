@@ -6,7 +6,7 @@ from pyrogram.types import (
     InlineKeyboardButton
 )
 from info import (
-    COMMAND_HAND_LE
+    COMMAND_HAND_LER
 )
 
 
