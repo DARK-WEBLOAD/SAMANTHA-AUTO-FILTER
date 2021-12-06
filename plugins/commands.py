@@ -37,13 +37,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/DWL_Auto_Filter_bot?startgroup=true')
+            InlineKeyboardButton('᯽ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᯽', url='http://t.me/DWL_Auto_Filter_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/cinemahubmoviesS'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴀʟ', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ ❀', url='https://t.me/cinemahubmoviesS'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴀʟ ❀', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴘ ✪', callback_data='help'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ ✪', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -78,13 +78,13 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/DWL_Auto_Filter_bot?startgroup=true')
+            InlineKeyboardButton('᯽ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᯽', url='http://t.me/DWL_Auto_Filter_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/cinemahubmoviesS'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴀʟ', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ ❀', url='https://t.me/cinemahubmoviesS'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴀʟ ❀', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴘ ✪', callback_data='help'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ ✪', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
