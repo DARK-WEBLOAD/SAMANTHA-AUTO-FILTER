@@ -37,7 +37,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ℹ️ Hᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
+            InlineKeyboardButton('ℹ️ Hᴇʟᴘ', url="http://t.me/DWL_Auto_Filter_bot?start=help"),
             InlineKeyboardButton('💞 Cʜᴀɴɴᴇʟ', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
